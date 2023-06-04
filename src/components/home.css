@@ -1,0 +1,14 @@
+.homepage {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+    color: rgb(132, 102, 102);
+  }
+  
+  .homepage h1 {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  
